@@ -28,6 +28,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: rgb(156, 156, 228);
 }
 
 h1 {
@@ -65,4 +66,26 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+.Heading{
+  font-size: large;
+  color: black;
+}
+
+.SubHeading{
+  font-size: large;
+  color: gray;
+}
+
+.Button{
+  background-color: black;
+  height: 50px;
+  width: 100px;
+  color: white;
+}
+.signup-card{
+  background-color: #fff;
+  width: 500px;
+  height: 600px;
+  margin-left: 600px;
 }
